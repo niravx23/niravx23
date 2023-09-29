@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirav Parmar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am currently in the final year of my CSE program at Nirma University.Throughout my academic career, I have honed my skills in various programming languages like Java, Python, C++, and JavaScript.I have also gained hands-on experience in web development, database management, and software design principles through coursework and personal projects.</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
